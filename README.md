@@ -1,2 +1,2 @@
 # armazem
-This is for molecular biology development.
+This is a test repo.
